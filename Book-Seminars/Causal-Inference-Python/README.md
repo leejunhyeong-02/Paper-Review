@@ -3,6 +3,7 @@
 - **도서명**: 실무로 통하는 인과추론 with 파이썬 (Causal Inference for The Brave and True)
 - **저자**: 마테우스 파치우 (Matheus Facure)
 - **발표자**: 이준형 (Junhyeong Lee)
+- **진행 기간**: **2025.12 ~ 2026.02**
 - **목적**: 상관관계가 아닌 인과관계(Causality)를 데이터와 머신러닝을 통해 규명하고, 의사결정 및 정책 평가에 적용하는 인과추론 프레임워크 학습
 
 ---

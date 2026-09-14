@@ -12,16 +12,17 @@
 
 ## 📑 1. Research Paper Reviews (논문 리뷰)
 
-| Category | Date | Paper Title | Venue / Year | Review Slide (PDF) | Summary Note |
+| Category | Presentation Date | Paper Title | Venue / Year | Review Slide (PDF) | Summary Note |
 |:---:|:---:|:---|:---:|:---:|:---:|
-| 🤖 **VLM** | 2026.09 | **Visual Instruction Tuning (LLaVA)** | NeurIPS 2023 (Oral) | [📄 Slide 보기](./Vision-Language/LLaVA/LLaVA_Paper_Review_LeeJunHyeong.pdf) | [📝 Review Note](./Vision-Language/LLaVA/README.md) |
+| 🤖 **VLM** | **2026.09.21** | **Visual Instruction Tuning (LLaVA)** | NeurIPS 2023 (Oral) | [📄 Slide 보기](./Vision-Language/LLaVA/LLaVA_Paper_Review_LeeJunHyeong.pdf) | [📝 Review Note](./Vision-Language/LLaVA/README.md) |
 
 ---
 
 ## 📖 2. Book & Theory Seminars (도서 및 이론 세미나)
 
 ### 📊 《실무로 통하는 인과추론 with 파이썬》 스터디
-> **Causal Inference for The Brave and True** — 세미나 발표 슬라이드 모음 ([📝 세미나 상세 페이지](./Book-Seminars/Causal-Inference-Python/README.md))
+> **Causal Inference for The Brave and True** — 세미나 발표 슬라이드 모음 ([📝 세미나 상세 페이지](./Book-Seminars/Causal-Inference-Python/README.md))  
+> 🗓️ **진행 기간**: **2025.12 ~ 2026.02**
 
 | Chapter | Topic | Presentation Slide (PDF) | Key Takeaway |
 |:---:|:---|:---:|:---|
@@ -37,15 +38,15 @@
 ## 📂 Repository Structure
 
 ```text
-Paper-Review/ (AI-Study-Archive)
+Paper-Review/
 ├── README.md                                  # 전체 논문 리뷰 & 세미나 인덱스 허브
 │
 ├── Vision-Language/                           # [논문] Vision-Language Models (VLM)
 │   └── LLaVA/
 │       ├── README.md                          # LLaVA 논문 분석 노트
-│       └── LLaVA_Paper_Review_LeeJunHyeong.pdf # 발표 슬라이드 전문 (웹 뷰어 지원)
+│       └── LLaVA_Paper_Review_LeeJunHyeong.pdf # 발표 슬라이드 전문 (2026.09.21 발표)
 │
-└── Book-Seminars/                             # [세미나] 도서 및 이론 스터디
+└── Book-Seminars/                             # [세미나] 도서 및 이론 스터디 (2025.12 ~ 2026.02)
     └── Causal-Inference-Python/               # 《실무로 통하는 인과추론 with 파이썬》
         ├── README.md                          # 인과추론 챕터별 정리 노트
         ├── 01_Introduction_to_Causal_Inference.pdf

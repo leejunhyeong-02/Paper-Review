@@ -3,6 +3,8 @@
 - **Authors**: Haotian Liu, Chunyuan Li, Qingyang Wu, Yong Jae Lee
 - **Affiliation**: University of Wisconsin-Madison, Microsoft Research, Columbia University
 - **Publication**: **NeurIPS 2023 (Oral Presentation)**
+- **Presentation Date**: **2026.09.21**
+- **Presenter**: 이준형 (Junhyeong Lee)
 - **Paper Link**: [arXiv:2304.08485](https://arxiv.org/abs/2304.08485) / [Project Page](https://llava-vl.github.io/)
 - **Review Slide**: [📄 LLaVA_Paper_Review_LeeJunHyeong.pdf](./LLaVA_Paper_Review_LeeJunHyeong.pdf)
 
