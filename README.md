@@ -14,6 +14,7 @@
 
 | Category | Presentation Date | Paper Title | Venue / Year | Review Slide (PDF) | Summary Note |
 |:---:|:---:|:---|:---:|:---:|:---:|
+| 🤖 **3D VLM** | **2026.09** | **SpatialStack: Layered Geometry-Language Fusion for 3D VLM Spatial Reasoning** | CVPR 2026 | [📄 Slide 보기](./Vision-Language/SpatialStack/SpatialStack_Paper_Review_LeeJunHyeong.pdf) | [📝 Review Note](./Vision-Language/SpatialStack/README.md) |
 | 🤖 **VLM** | **2026.09.21** | **Visual Instruction Tuning (LLaVA)** | NeurIPS 2023 (Oral) | [📄 Slide 보기](./Vision-Language/LLaVA/LLaVA_Paper_Review_LeeJunHyeong.pdf) | [📝 Review Note](./Vision-Language/LLaVA/README.md) |
 
 ---
@@ -41,7 +42,10 @@
 Paper-Review/
 ├── README.md                                  # 전체 논문 리뷰 & 세미나 인덱스 허브
 │
-├── Vision-Language/                           # [논문] Vision-Language Models (VLM)
+├── Vision-Language/                           # [논문] Vision-Language Models (VLM) & 3D VLM
+│   ├── SpatialStack/
+│   │   ├── README.md                          # SpatialStack 논문 분석 및 요약 노트
+│   │   └── SpatialStack_Paper_Review_LeeJunHyeong.pdf # 발표 슬라이드 전문
 │   └── LLaVA/
 │       ├── README.md                          # LLaVA 논문 분석 노트
 │       └── LLaVA_Paper_Review_LeeJunHyeong.pdf # 발표 슬라이드 전문 (2026.09.21 발표)
