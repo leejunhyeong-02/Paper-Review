@@ -12,6 +12,12 @@
 
 ## 📑 1. Research Paper Reviews (논문 리뷰)
 
+### 🌟 Featured: Integrated VLM Evolution Seminar (통합 세미나)
+| Category | Presentation Date | Topic / Paper Title | Venue / Scope | Review Slide (PDF) | Summary Note |
+|:---:|:---:|:---|:---:|:---:|:---:|
+| 🔥 **VLM & 3D VLM** | **2026.09.21** | **VLM Evolution: From 2D Instruction Tuning to 3D Spatial Reasoning**<br/>(LLaVA → VGGT → SpatialStack) | NeurIPS / CVPR | [📄 통합 Slide 보기](./Vision-Language/Integrated-Review/LLaVA_VGGT_SpatialStack_Integrated_Review_LeeJunHyeong.pdf) | [📝 통합 Review Note](./Vision-Language/Integrated-Review/README.md) |
+
+### 📚 Individual Paper Reviews (개별 논문 리뷰)
 | Category | Presentation Date | Paper Title | Venue / Year | Review Slide (PDF) | Summary Note |
 |:---:|:---:|:---|:---:|:---:|:---:|
 | 🤖 **3D VLM** | **2026.09** | **SpatialStack: Layered Geometry-Language Fusion for 3D VLM Spatial Reasoning** | CVPR 2026 | [📄 Slide 보기](./Vision-Language/SpatialStack/SpatialStack_Paper_Review_LeeJunHyeong.pdf) | [📝 Review Note](./Vision-Language/SpatialStack/README.md) |
@@ -43,6 +49,9 @@ Paper-Review/
 ├── README.md                                  # 전체 논문 리뷰 & 세미나 인덱스 허브
 │
 ├── Vision-Language/                           # [논문] Vision-Language Models (VLM) & 3D VLM
+│   ├── Integrated-Review/                     # [통합] LLaVA ➔ VGGT ➔ SpatialStack 통합 발표 자료
+│   │   ├── README.md                          # 3대 논문 진화 흐름 통합 요약 노트
+│   │   └── LLaVA_VGGT_SpatialStack_Integrated_Review_LeeJunHyeong.pdf # 발표 슬라이드 통합본
 │   ├── SpatialStack/
 │   │   ├── README.md                          # SpatialStack 논문 분석 및 요약 노트
 │   │   └── SpatialStack_Paper_Review_LeeJunHyeong.pdf # 발표 슬라이드 전문
