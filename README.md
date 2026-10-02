@@ -12,9 +12,10 @@
 
 ## 📑 1. Research Paper Reviews (논문 리뷰)
 
-### 🌟 Featured: Integrated VLM Evolution Seminar (통합 세미나)
+### 🌟 Featured: Research Proposals & Integrated Reviews (기획 및 통합 세미나)
 | Category | Presentation Date | Topic / Paper Title | Venue / Scope | Review Slide (PDF) | Summary Note |
 |:---:|:---:|:---|:---:|:---:|:---:|
+| 🎯 **Research Proposal** | **2026.10** | **Test-Time Adaptation for 3D Spatial Reasoning VLMs** | Future Research / TTA in 3D VLM | [📄 연구 주제 Slide 보기](./Vision-Language/Research-Topic/Test-Time_Adaptation_for_3D_Spatial_Reasoning_VLMs.pdf) | [📝 연구 주제 Note](./Vision-Language/Research-Topic/README.md) |
 | 🔥 **VLM & 3D VLM** | **2026.09.21** | **VLM Evolution: From 2D Instruction Tuning to 3D Spatial Reasoning**<br/>(LLaVA → VGGT → SpatialStack) | NeurIPS / CVPR | [📄 통합 Slide 보기](./Vision-Language/Integrated-Review/LLaVA_VGGT_SpatialStack_Integrated_Review_LeeJunHyeong.pdf) | [📝 통합 Review Note](./Vision-Language/Integrated-Review/README.md) |
 
 ### 📚 Individual Paper Reviews (개별 논문 리뷰)
@@ -49,6 +50,9 @@ Paper-Review/
 ├── README.md                                  # 전체 논문 리뷰 & 세미나 인덱스 허브
 │
 ├── Vision-Language/                           # [논문] Vision-Language Models (VLM) & 3D VLM
+│   ├── Research-Topic/                        # [기획] 3D 공간추론 VLM을 위한 Test-Time Adaptation 연구 주제
+│   │   ├── README.md                          # TTA 연구 제안 배경 및 핵심 연구 방향 노트
+│   │   └── Test-Time_Adaptation_for_3D_Spatial_Reasoning_VLMs.pdf # 발표 슬라이드 전문
 │   ├── Integrated-Review/                     # [통합] LLaVA ➔ VGGT ➔ SpatialStack 통합 발표 자료
 │   │   ├── README.md                          # 3대 논문 진화 흐름 통합 요약 노트
 │   │   └── LLaVA_VGGT_SpatialStack_Integrated_Review_LeeJunHyeong.pdf # 발표 슬라이드 통합본
