@@ -15,6 +15,7 @@
 ### 🌟 Featured: Research Proposals & Integrated Reviews (기획 및 통합 세미나)
 | Category | Presentation Date | Topic / Paper Title | Venue / Scope | Review Slide (PDF) | Summary Note |
 |:---:|:---:|:---|:---:|:---:|:---:|
+| 🚀 **Admission Oral Talk** | **2026.10.21** | **Going Deeper: Why Depth Works in CNNs**<br/>(AlexNet → VGG → ResNet) | DGIST AI Major / M.S. Interview | [📄 면접 발표 Slide 보기](./Computer-Vision/DGIST-Interview-GoingDeeper/DGIST_Interview_GoingDeeper_JunhyeongLee.pdf) | [📝 발표 스크립트 & Q&A Note](./Computer-Vision/DGIST-Interview-GoingDeeper/README.md) |
 | 🎯 **Research Proposal** | **2026.10** | **Test-Time Adaptation for 3D Spatial Reasoning VLMs** | Future Research / TTA in 3D VLM | [📄 연구 주제 Slide 보기](./Vision-Language/Research-Topic/Test-Time_Adaptation_for_3D_Spatial_Reasoning_VLMs.pdf) | [📝 연구 주제 Note](./Vision-Language/Research-Topic/README.md) |
 | 🔥 **VLM & 3D VLM** | **2026.09.21** | **VLM Evolution: From 2D Instruction Tuning to 3D Spatial Reasoning**<br/>(LLaVA → VGGT → SpatialStack) | NeurIPS / CVPR | [📄 통합 Slide 보기](./Vision-Language/Integrated-Review/LLaVA_VGGT_SpatialStack_Integrated_Review_LeeJunHyeong.pdf) | [📝 통합 Review Note](./Vision-Language/Integrated-Review/README.md) |
 
@@ -48,6 +49,13 @@
 ```text
 Paper-Review/
 ├── README.md                                  # 전체 논문 리뷰 & 세미나 인덱스 허브
+│
+├── Computer-Vision/                           # [학술 구술 발표] Computer Vision Deep Learning Foundations
+│   └── DGIST-Interview-GoingDeeper/           # DGIST AI전공 석사 구술 면접 영어 발표 (AlexNet ➔ VGG ➔ ResNet)
+│       ├── README.md                          # 슬라이드별 분석 + 영어 발표 대본(Script) + 예상 Q&A
+│       ├── DGIST_Interview_GoingDeeper_JunhyeongLee.pdf  # 5장 발표 슬라이드 공식 PDF
+│       ├── DGIST_Interview_GoingDeeper_JunhyeongLee.pptx # 원본 PPTX 파일
+│       └── images/                            # 슬라이드별 고화질 프리뷰 이미지
 │
 ├── Vision-Language/                           # [논문] Vision-Language Models (VLM) & 3D VLM
 │   ├── Research-Topic/                        # [기획] 3D 공간추론 VLM을 위한 Test-Time Adaptation 연구 주제
